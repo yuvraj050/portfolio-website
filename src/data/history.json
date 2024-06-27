@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Web Dev Intern",
+    "organisation": "Find Flames",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Responsive Websites."],
+    "imageSrc": "history/ff.png"
+  },
+  {
+    "role": "Innovation Committee Co-ordinator",
+    "organisation": "Institution's Innovation Council-SMIT",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Managed in campus and inter state hackathons.", "Designed the event posters."],
+    "imageSrc": "history/iic.png"
+  },
+  {
+    "role": "PR Team Member",
+    "organisation": "Innovision-SMIT",
+    "startDate": "Jan, 2022",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Member of management team of technical fest in college like Tech Adrishta 23."],
+    "imageSrc": "history/in.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather-App",
+    "imageSrc": "projects/project.png",
+    "description": "A weather built with Vite and React that fetches weather data from the OpenWeatherMap API and displays the current weather information for a searched city.",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "demo": "https://weather-730558tqe-yuvraj-singhs-projects-dc568b57.vercel.app/",
+    "source": "https://github.com/yuvraj050/weather-app"
+  },
+  {
+    "title": "Registration Form",
+    "imageSrc": "projects/project.png",
+    "description": "A registration form through users can register with their name, email, and password. If the same email is used to register again, an error message is shown.",
+    "skills": ["HTML", "CSS", "Node", "MongoDB"],
+    "demo": "https://reg-form-xi4u.onrender.com/",
+    "source": "https://github.com/yuvraj050/RegistrationForm"
+  },
+  {
+    "title": "Other Projects",
+    "imageSrc": "projects/project.png",
+    "description": "You can view all the projects I have completed on my GitHub profile. Feel free to explore and check out my work there.",
+    "skills": ["React", "HTML","CSS", "Node", "c++", "MySQL", "MongoDB"],
+    "demo": "https://www.github.com/yuvraj050",
+    "source": "https://www.github.com/yuvraj050"
+  }
+]

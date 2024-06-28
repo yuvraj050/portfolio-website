@@ -11,7 +11,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -67,44 +66,14 @@ Once the development server is running, you can view the portfolio in your brows
 - **Projects Section:** Explore the projects I've worked on.
 - **Contact Section:** Find ways to get in touch with me.
 
-## Screenshots
-
-Here are some screenshots of the portfolio:
-
-### About Section
-![About Section](screenshots/about.png)
-
-### Resume Section
-![Resume Section](screenshots/resume.png)
-
-### Projects Section
-![Projects Section](screenshots/projects.png)
-
-### Contact Section
-![Contact Section](screenshots/contact.png)
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some feature'`)
-5. Push to the branch (`git push origin feature-branch`)
-6. Open a pull request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Yuvraj
+Yuvraj singh
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** ys09559@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yuvraj-singh-880912268/)
+- **GitHub:** [Your GitHub Profile](https://github.com/yuvraj050)
 
 ---
 

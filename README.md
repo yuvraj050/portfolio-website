@@ -70,8 +70,8 @@ Once the development server is running, you can view the portfolio in your brows
 Yuvraj singh
 
 - **Email:** ys09559@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yuvraj-singh-880912268/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yuvraj050)
+- **LinkedIn:** [Yuvraj Singh](https://www.linkedin.com/in/yuvraj-singh-880912268/)
+- **GitHub:** [Yuvraj Singh](https://github.com/yuvraj050)
 
 ---
 

@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-![Responsive Landing-Page](https://raw.githubusercontent.com/yuvraj050/landing-page/main/portfolio.png)
+![Responsive Landing-Page](https://raw.githubusercontent.com/yuvraj050/portfolio-website/main/portfolio.png)
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experiences. It includes sections about me, my resume, and contact information.
 
